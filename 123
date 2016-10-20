@@ -1,5 +1,5 @@
 ha.it's my first load in github.
-/*糟糕的数控键盘*/
+/*糟糕的键盘*/
 #include<reg52.h>
 #define uchar unsigned char
 #define uint unsigned int
